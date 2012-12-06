@@ -1,0 +1,30 @@
+{
+  "a": {
+    "type": "nest", "value": {
+        "b": {
+          "type": "nest", "value": {
+            "string": {"type": "string"},
+            "integer": {"max": 1000000, "type": "int", "min": 0},
+            "c": {
+              "type": "nest", "value": {
+                "string": {"type": "string"},
+                "integer": {"max": 1000000, "type": "int", "min": 0},
+                "d": {
+                  "type": "nest", "value": {
+                    "string": {"type": "string"},
+                    "integer": {"max": 1000000, "type": "int", "min": 0},
+                    "e": {
+                      "type": "nest", "value": {
+                        "string": {"type": "string"},
+                        "integer": {"max": 1000000, "type": "int", "min": 0}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

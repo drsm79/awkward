@@ -1,0 +1,86 @@
+{
+    "_id": {
+        "seed": "_design/",
+        "type": "seededstring"
+    },
+    "views": {
+        "type": "fixed",
+        "value": {
+            "foo8": {
+                "map": "function(doc){emit(null, 1)}"
+            },
+            "foo9": {
+                "map": "function(doc){emit(null, 1)}"
+            },
+            "foo4": {
+                "map": "function(doc){emit(null, 1)}"
+            },
+            "foo5": {
+                "map": "function(doc){emit(null, 1)}"
+            },
+            "foo6": {
+                "map": "function(doc){emit(null, 1)}"
+            },
+            "foo7": {
+                "map": "function(doc){emit(null, 1)}"
+            },
+            "foo1": {
+                "map": "function(doc){emit(null, 1)}"
+            },
+            "foo2": {
+                "map": "function(doc){emit(null, 1)}"
+            },
+            "foo3": {
+                "map": "function(doc){emit(null, 1)}"
+            },
+            "fool": {
+                "map": "function(doc){emit(null, 1)}"
+            },
+            "foom": {
+                "map": "function(doc){emit(null, 1)}"
+            },
+            "foon": {
+                "map": "function(doc){emit(null, 1)}"
+            },
+            "fooo": {
+                "map": "function(doc){emit(null, 1)}"
+            },
+            "fooh": {
+                "map": "function(doc){emit(null, 1)}"
+            },
+            "fooi": {
+                "map": "function(doc){emit(null, 1)}"
+            },
+            "fooj": {
+                "map": "function(doc){emit(null, 1)}"
+            },
+            "fook": {
+                "map": "function(doc){emit(null, 1)}"
+            },
+            "food": {
+                "map": "function(doc){emit(null, 1)}"
+            },
+            "fooe": {
+                "map": "function(doc){emit(null, 1)}"
+            },
+            "foof": {
+                "map": "function(doc){emit(null, 1)}"
+            },
+            "foog": {
+                "map": "function(doc){emit(null, 1)}"
+            },
+            "fooa": {
+                "map": "function(doc){emit(null, 1)}"
+            },
+            "foob": {
+                "map": "function(doc){emit(null, 1)}"
+            },
+            "fooc": {
+                "map": "function(doc){emit(null, 1)}"
+            },
+            "foop": {
+                "map": "function(doc){emit(null, 1)}"
+            }
+        }
+    }
+}

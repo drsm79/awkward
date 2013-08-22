@@ -5,9 +5,9 @@ Schema files for awkward data
 ------------------------------------
 
 These schema files create awkward data for testing the UI/UX of
-[https://github.com/cloudant-labs/couchdb/tree/fauxton/src/fauxton](fauxton).
+[fauxton](https://github.com/cloudant-labs/couchdb/tree/fauxton/src/fauxton).
 
-Create data using [https://github.com/cloudant-labs/etc/blob/master/gen_docs.py](gen_docs) as follows:
+Create data using [gen_docs](https://github.com/cloudant-labs/etc/blob/master/gen_docs.py) as follows:
 
     python gen_docs.py -u $URL -s nested.json
 
